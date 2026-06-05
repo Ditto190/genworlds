@@ -1,5 +1,11 @@
 # 🧬🌍 GenWorlds - The Collaborative AI Agent Framework
 
+> [!IMPORTANT]
+> **⚠️ This project is DISCONTINUED.**
+>
+> But it has been reborn in its best version yet 🧬✨
+> Check it out at **[genlayerlabs/genswarms](https://github.com/genlayerlabs/genswarms)**.
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/license/mit/) [![Discord](https://dcbadge.vercel.app/api/server/VpfmXEMN66?compact=true&style=flat)](https://discord.gg/VpfmXEMN66) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/yeagerai.svg?style=social&label=Follow%20%40YeagerAI)](https://twitter.com/yeagerai) [![GitHub star chart](https://img.shields.io/github/stars/yeagerai/genworlds?style=social)](https://star-history.com/#yeagerai/genworlds)
 
 **Quick install:** `pip install genworlds`
